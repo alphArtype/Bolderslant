@@ -14,11 +14,17 @@
 
 Bolderslant is just handwritten font with thick line and slant style.
 
+When making this font I started by writing a few words using a digital drawing application, then I continued to complete all the letters, numbers and punctuation marks until I was done. Then I compiled it in a vector application before I finally put it in a font maker application.
+
+And the image below shows how this font is used in a pangram.
+
 ![Sample Image](documentation/image1.png)
 
 ## About Author
 
 Agung Rohmat is font creator based on Pati, Central Java, Indonesia.
+
+[Homepage](https://alphartype.com/)
 
 ## Building
 
