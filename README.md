@@ -1,8 +1,4 @@
-----
-
-![Sample Image](documentation/image1.png)
-
-# About Bolderslant font
+# Bolderslant font
 
 [![][Fontbakery]](https://alphArtype.github.io/Bolderslant/fontbakery/fontbakery-report.html)
 [![][Universal]](https://alphArtype.github.io/Bolderslant/fontbakery/fontbakery-report.html)
@@ -16,11 +12,11 @@
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FalphArtype%2FBolderslant%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FalphArtype%2FBolderslant%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Bolderslant is just handwritten font with thick line and slant style.
 
-Don't hesitate to create images!
+![Sample Image](documentation/image1.png)
 
-## About
+## About Author
 
 Agung Rohmat is font creator based on Pati, Central Java, Indonesia.
 
